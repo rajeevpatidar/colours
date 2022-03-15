@@ -1,0 +1,14 @@
+.color-dis{
+    width: 150px;
+    height: 150px;
+    /* margin: 12px; */
+    text-align: center;
+    color: black;
+}
+.color-dis:hover{
+    transform: scale3d(1.1,1.1,1.1);
+    transition: all 0.3s ease-in-out 0s;
+}
+.color-light{
+    color: white;
+}
